@@ -1,2 +1,18 @@
-# Pinnacle-Labs---AI-Resume-Parser-
-A browser-based resume parser that extracts structured information from PDF, DOCX, and TXT files using built-in NLP pattern matching. No API keys, no server—everything runs 100% locally. Instantly extracts names, contact details, skills, work experience, education, certifications, and generates completeness scores with exportable JSON/TXT reports.
+# 🤖 AI Resume Parser
+
+A **fully client-side resume parser** that extracts structured information from resumes using NLP pattern matching. No server, no API keys, no internet required after initial load.
+
+## ✨ Features
+
+- 📄 **Upload PDF, DOCX, or TXT** resume files
+- 🔍 **Extracts** personal details, skills, work experience, education, certifications, languages
+- ⚡ **100% Browser-Based** - runs locally, your data never leaves your computer
+- 🎯 **Completeness Score** & ATS-style breakdown
+- 📊 **Export** results as JSON or formatted text report
+- 🎨 **Modern, responsive UI** with dark theme
+- 📋 **Sample resume** included for testing
+
+
+## 🛠️ How It Works
+
+The parser uses pattern matching and keyword detection to identify:
